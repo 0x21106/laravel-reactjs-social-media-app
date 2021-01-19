@@ -73,4 +73,4 @@ Go back root of the repo and run the following files in order
 ## frontend terminal must look like this
 ![Screenshot 2021-01-19 223612](https://user-images.githubusercontent.com/42522330/105082469-10a4a600-5aad-11eb-9899-4aa70aad2889.png)
 
-##Congratulations. You have completed all the steps :)
+## Congratulations. You have completed all the steps :)
