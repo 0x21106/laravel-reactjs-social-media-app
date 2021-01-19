@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "dev:php":"cd backend && php artisan serve",
+        "dev:react":"cd frontend && npm start"
+    },
+    "private": true,
+    "name": "laravel-and-react-redux-social-media-app-task",
+    "workspaces": [
+        "backend",
+        "frontend"
+    ],
+    "devDependencies": {},
+    "dependencies": {}
+}
